@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="test_questions">
+        <item name="yellow">Yellow</item>
+        <item name="red">Red</item>
+        <item name="blue">Blue</item>
+        <item name="green">Green</item>
+        <item name="purple">Purple</item>
+        <item name="brown">Brown</item>
+        <item name="black">Black</item>
+        <item name="white">White</item>
+        <item name="orange">Orange</item>
+        <item name="grey">Grey</item>
+        <item name="pink">Pink</item>
+        <item name="i_am">I am.</item>
+        <item name="you_are">You are.</item>
+        <item name="she_is">She is.</item>
+        <item name="he_is">He is.</item>
+        <item name="it_is">It is.</item>
+        <item name="we_are">We are.</item>
+        <item name="they_are">They are.</item>
+        <item name="welcome">Welcome</item>
+        <item name="hello">Hello/Hi</item>
+        <item name="morning">Good morning</item>
+        <item name="noon">Good afternoon</item>
+        <item name="evening">Good evening</item>
+        <item name="how">How are you</item>
+        <item name="fine">I am fine.</item>
+        <item name="meet">Nice to meet you.</item>
+        <item name="see">Nice to see you.</item>
+        <item name="bye">Goodbye/Bye</item>
+        <item name="num0">Zero</item>
+        <item name="num1">One</item>
+        <item name="num2">Two</item>
+        <item name="num3">Three</item>
+        <item name="num4">Four</item>
+        <item name="num5">Five</item>
+        <item name="num6">Six</item>
+        <item name="num7">Seven</item>
+        <item name="num8">Eight</item>
+        <item name="num9">Nine</item>
+        <item name="num10">Ten</item>
+    </string-array>
+
+    <string-array name="test_questions_answers">
+        <item name="yellow">Жълто</item>
+        <item name="red">Червено</item>
+        <item name="blue">Синьо</item>
+        <item name="green">Зелено</item>
+        <item name="purple">Лилаво</item>
+        <item name="brown">Кафяво</item>
+        <item name="black">Черно</item>
+        <item name="white">Бяло</item>
+        <item name="orange">Оранжево</item>
+        <item name="grey">Сиво</item>
+        <item name="pink">Розово</item>
+        <item name="i_am">Аз съм.</item>
+        <item name="you_are">Ти си/Вие сте.</item>
+        <item name="she_is">Тя е.</item>
+        <item name="he_is">Той е.</item>
+        <item name="it_is">То е.</item>
+        <item name="we_are">Ние сме.</item>
+        <item name="they_are">Те са.</item>
+        <item name="welcome">Добре дошъл</item>
+        <item name="hello">Здравей/Здрасти</item>
+        <item name="morning">Добро утро</item>
+        <item name="noon">Добър ден</item>
+        <item name="evening">Добър вечер</item>
+        <item name="how">Как си</item>
+        <item name="fine">Добре съм</item>
+        <item name="meet">Радвам се да се запознаем</item>
+        <item name="see">Радвам се да те видя</item>
+        <item name="bye">Довиждане/Чао</item>
+        <item name="num0">Нула</item>
+        <item name="num1">Едно</item>
+        <item name="num2">Две</item>
+        <item name="num3">Три</item>
+        <item name="num4">Четири</item>
+        <item name="num5">Пет</item>
+        <item name="num6">Шест</item>
+        <item name="num7">Седем</item>
+        <item name="num8">Осем</item>
+        <item name="num9">Девет</item>
+        <item name="num10">Десет</item>
+    </string-array>
+</resources>

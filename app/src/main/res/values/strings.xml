@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Тетрадка-речник</string>
+
+    <!-- Titles of the lessons on the main screen -->
+    <string name="alphabet">Азбуката</string>
+    <string name="numbers">Числата</string>
+    <string name="colors">Цветовете</string>
+    <string name="pronouns">Аз съм, ти си&#8230;</string>
+    <string name="greetings">Поздрави</string>
+    <string name="test">Тествай</string>
+
+    <!-- Letters of the alphabet -->
+    <string name="letterA">A</string>
+    <string name="letterB">B</string>
+    <string name="letterC">C</string>
+    <string name="letterD">D</string>
+    <string name="letterE">E</string>
+    <string name="letterF">F</string>
+    <string name="letterG">G</string>
+    <string name="letterH">H</string>
+    <string name="letterI">I</string>
+    <string name="letterJ">J</string>
+    <string name="letterK">K</string>
+    <string name="letterL">L</string>
+    <string name="letterM">M</string>
+    <string name="letterN">N</string>
+    <string name="letterO">O</string>
+    <string name="letterP">P</string>
+    <string name="letterQ">Q</string>
+    <string name="letterR">R</string>
+    <string name="letterS">S</string>
+    <string name="letterT">T</string>
+    <string name="letterU">U</string>
+    <string name="letterV">V</string>
+    <string name="letterW">W</string>
+    <string name="letterX">X</string>
+    <string name="letterY">Y</string>
+    <string name="letterZ">Z</string>
+
+    <!-- Numbers from 1 to 10 -->
+    <string name="num0">Zero</string>
+    <string name="num1">One</string>
+    <string name="num2">Two</string>
+    <string name="num3">Three</string>
+    <string name="num4">Four</string>
+    <string name="num5">Five</string>
+    <string name="num6">Six</string>
+    <string name="num7">Seven</string>
+    <string name="num8">Eight</string>
+    <string name="num9">Nine</string>
+    <string name="num10">Ten</string>
+
+    <!-- Colors -->
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="purple">Purple</string>
+    <string name="brown">Brown</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="orange">Orange</string>
+    <string name="grey">Grey</string>
+    <string name="pink">Pink</string>
+
+    <!-- Pronouns in english and bulgarian -->
+    <string name="i_am">I am Maria.</string>
+    <string name="you_are1">You are Sofia.</string>
+    <string name="she_is">She is Lilly.</string>
+    <string name="he_is">He is George.</string>
+    <string name="it_is">It is a baby.</string>
+    <string name="we_are">We are sisters.</string>
+    <string name="you_are2">You are brothers.</string>
+    <string name="they_are">They are parents.</string>
+    <string name="i_am_bg">Аз съм Мария.</string>
+    <string name="you_are1_bg">Ти си София.</string>
+    <string name="she_is_bg">Тя е Лили.</string>
+    <string name="he_is_bg">Той е Джордж.</string>
+    <string name="it_is_bg">То е бебе.</string>
+    <string name="we_are_bg">Ние сме сестри.</string>
+    <string name="you_are2_bg">Вие сте братя.</string>
+    <string name="they_are_bg">Те са родители.</string>
+
+    <!-- Greetings in english and bulgarian -->
+    <string name="welcome">Welcome</string>
+    <string name="welcome_bg">Добре дошъл</string>
+    <string name="hello">Hello/Hi</string>
+    <string name="hello_bg">Здравей/Здрасти</string>
+    <string name="morning">Good morning</string>
+    <string name="morning_bg">Добро утро</string>
+    <string name="noon">Good afternoon</string>
+    <string name="noon_bg">Добър ден</string>
+    <string name="evening">Good evening</string>
+    <string name="evening_bg">Добър вечер</string>
+    <string name="how">How are you?</string>
+    <string name="how_bg">Как си?</string>
+    <string name="fine">I am fine.</string>
+    <string name="fine_bg">Добре съм.</string>
+    <string name="meet">Nice to meet you.</string>
+    <string name="meet_bg">Приятно ми е да се запознаем.</string>
+    <string name="see">Nice to see you.</string>
+    <string name="see_bg">Радвам се да те видя.</string>
+    <string name="bye">Goodbye!/Bye!</string>
+    <string name="bye_bg">Довиждане!/Чао!</string>
+
+    <!-- Strings for the questions in the test -->
+    <string name="condition_text">Изберете верният превод</string>
+    <string name="check">Провери</string>
+    <string name="correct">Правилно</string>
+    <string name="wrong">Грешно</string>
+    <string name="next">Следващ</string>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.dictionary_notebook.ColorsLesson">
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:columnCount="3"
+        android:orientation="horizontal"
+        android:layout_margin="16dp">
+
+        <Button
+            android:id="@+id/Button_yellow"
+            style="@style/buttons"
+            android:text="@string/yellow" />
+        <Button
+            android:id="@+id/Button_grey"
+            style="@style/buttons"
+            android:text="@string/grey" />
+        <Button
+            android:id="@+id/Button_pink"
+            style="@style/buttons"
+            android:text="@string/pink" />
+        <Button
+            android:id="@+id/Button_red"
+            style="@style/buttons"
+            android:text="@string/red" />
+        <Button
+            android:id="@+id/Button_black"
+            style="@style/buttons"
+            android:text="@string/black" />
+        <Button
+            android:id="@+id/Button_blue"
+            style="@style/buttons"
+            android:text="@string/blue" />
+        <Button
+            android:id="@+id/Button_green"
+            style="@style/buttons"
+            android:text="@string/green" />
+        <Button
+            android:id="@+id/Button_white"
+            style="@style/buttons"
+            android:text="@string/white" />
+        <Button
+            android:id="@+id/Button_brown"
+            style="@style/buttons"
+            android:text="@string/brown" />
+        <Button
+            android:id="@+id/Button_purple"
+            style="@style/buttons"
+            android:text="@string/purple" />
+        <Button
+            android:id="@+id/Button_orange"
+            style="@style/buttons"
+            android:text="@string/orange" />
+
+    </GridLayout>
+</ScrollView>

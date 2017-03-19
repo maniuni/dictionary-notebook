@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.dictionary_notebook.GreetingsLesson">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="16dp">
+
+        <Button
+            android:id="@+id/Button_welcome"
+            style="@style/buttons_wrapped"
+            android:text="@string/welcome" />
+
+        <Button
+            android:id="@+id/Button_hello"
+            style="@style/buttons_wrapped"
+            android:text="@string/hello" />
+
+        <Button
+            android:id="@+id/Button_morning"
+            style="@style/buttons_wrapped"
+            android:text="@string/morning" />
+
+        <Button
+            android:id="@+id/Button_noon"
+            style="@style/buttons_wrapped"
+            android:text="@string/noon" />
+
+        <Button
+            android:id="@+id/Button_evening"
+            style="@style/buttons_wrapped"
+            android:text="@string/evening" />
+
+        <Button
+            android:id="@+id/Button_how"
+            style="@style/buttons_wrapped"
+            android:text="@string/how" />
+
+        <Button
+            android:id="@+id/Button_fine"
+            style="@style/buttons_wrapped"
+            android:text="@string/fine" />
+
+        <Button
+            android:id="@+id/Button_meet"
+            style="@style/buttons_wrapped"
+            android:text="@string/meet" />
+
+        <Button
+            android:id="@+id/Button_see"
+            style="@style/buttons_wrapped"
+            android:text="@string/see" />
+
+        <Button
+            android:id="@+id/Button_bye"
+            style="@style/buttons_wrapped"
+            android:text="@string/bye" />
+
+    </LinearLayout>
+
+</ScrollView>

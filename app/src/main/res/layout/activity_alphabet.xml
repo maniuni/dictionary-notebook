@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.dictionary_notebook.Alphabet">
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:columnCount="3"
+        android:orientation="horizontal"
+        android:layout_margin="16dp">
+
+        <Button
+            android:id="@+id/aButton"
+            style="@style/buttons"
+            android:text="@string/letterA" />
+
+        <Button
+            android:id="@+id/bButton"
+            style="@style/buttons"
+            android:text="@string/letterB" />
+
+        <Button
+            android:id="@+id/cButton"
+            style="@style/buttons"
+            android:text="@string/letterC" />
+
+        <Button
+            android:id="@+id/dButton"
+            style="@style/buttons"
+            android:text="@string/letterD" />
+
+        <Button
+            android:id="@+id/eButton"
+            style="@style/buttons"
+            android:text="@string/letterE" />
+
+        <Button
+            android:id="@+id/fButton"
+            style="@style/buttons"
+            android:text="@string/letterF" />
+
+        <Button
+            android:id="@+id/gButton"
+            style="@style/buttons"
+            android:text="@string/letterG" />
+
+        <Button
+            android:id="@+id/hButton"
+            style="@style/buttons"
+            android:text="@string/letterH" />
+
+        <Button
+            android:id="@+id/iButton"
+            style="@style/buttons"
+            android:text="@string/letterI" />
+
+        <Button
+            android:id="@+id/jButton"
+            style="@style/buttons"
+            android:text="@string/letterJ" />
+
+        <Button
+            android:id="@+id/kButton"
+            style="@style/buttons"
+            android:text="@string/letterK" />
+
+        <Button
+            android:id="@+id/lButton"
+            style="@style/buttons"
+            android:text="@string/letterL" />
+
+        <Button
+            android:id="@+id/mButton"
+            style="@style/buttons"
+            android:text="@string/letterM" />
+
+        <Button
+            android:id="@+id/nButton"
+            style="@style/buttons"
+            android:text="@string/letterN" />
+
+        <Button
+            android:id="@+id/oButton"
+            style="@style/buttons"
+            android:text="@string/letterO" />
+
+        <Button
+            android:id="@+id/pButton"
+            style="@style/buttons"
+            android:text="@string/letterP" />
+
+        <Button
+            android:id="@+id/qButton"
+            style="@style/buttons"
+            android:text="@string/letterQ" />
+
+        <Button
+            android:id="@+id/rButton"
+            style="@style/buttons"
+            android:text="@string/letterR" />
+
+        <Button
+            android:id="@+id/sButton"
+            style="@style/buttons"
+            android:text="@string/letterS" />
+
+        <Button
+            android:id="@+id/tButton"
+            style="@style/buttons"
+            android:text="@string/letterT" />
+
+        <Button
+            android:id="@+id/uButton"
+            style="@style/buttons"
+            android:text="@string/letterU" />
+
+        <Button
+            android:id="@+id/vButton"
+            style="@style/buttons"
+            android:text="@string/letterV" />
+
+        <Button
+            android:id="@+id/wButton"
+            style="@style/buttons"
+            android:text="@string/letterW" />
+
+        <Button
+            android:id="@+id/xButton"
+            style="@style/buttons"
+            android:text="@string/letterX" />
+
+        <Button
+            android:id="@+id/yButton"
+            style="@style/buttons"
+            android:text="@string/letterY" />
+
+        <Button
+            android:id="@+id/zButton"
+            style="@style/buttons"
+            android:text="@string/letterZ" />
+    </GridLayout>
+</ScrollView>

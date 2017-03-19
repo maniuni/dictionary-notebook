@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.dictionary_notebook">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Alphabet"
+            android:label="@string/alphabet"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".NumbersLesson"
+            android:label="@string/numbers"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ColorsLesson"
+            android:label="@string/colors"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".PronounsLesson"
+            android:label="@string/pronouns"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".GreetingsLesson"
+            android:label="@string/greetings"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".TestLesson"
+            android:label="@string/test"
+            android:parentActivityName=".MainActivity" />
+    </application>
+
+</manifest>

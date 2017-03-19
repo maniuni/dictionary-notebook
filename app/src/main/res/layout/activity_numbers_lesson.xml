@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.dictionary_notebook.NumbersLesson">
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:columnCount="3"
+        android:orientation="horizontal"
+        android:layout_margin="16dp">
+
+        <Button
+            android:id="@+id/Button0"
+            style="@style/buttons"
+            android:text="@string/num0" />
+        <Button
+            android:id="@+id/Button1"
+            style="@style/buttons"
+            android:text="@string/num1" />
+        <Button
+            android:id="@+id/Button2"
+            style="@style/buttons"
+            android:text="@string/num2" />
+        <Button
+            android:id="@+id/Button3"
+            style="@style/buttons"
+            android:text="@string/num3" />
+        <Button
+            android:id="@+id/Button4"
+            style="@style/buttons"
+            android:text="@string/num4" />
+        <Button
+            android:id="@+id/Button5"
+            style="@style/buttons"
+            android:text="@string/num5" />
+        <Button
+            android:id="@+id/Button6"
+            style="@style/buttons"
+            android:text="@string/num6" />
+        <Button
+            android:id="@+id/Button7"
+            style="@style/buttons"
+            android:text="@string/num7" />
+        <Button
+            android:id="@+id/Button8"
+            style="@style/buttons"
+            android:text="@string/num8" />
+        <Button
+            android:id="@+id/Button9"
+            style="@style/buttons"
+            android:text="@string/num9" />
+        <Button
+            android:id="@+id/Button10"
+            style="@style/buttons"
+            android:text="@string/num10" />
+
+    </GridLayout>
+</ScrollView>
